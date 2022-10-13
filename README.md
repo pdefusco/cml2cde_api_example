@@ -20,7 +20,7 @@ The following are required to run the notebook:
 
 No other code changes are required for the remaining cells. You can execute each in sequence.
 Optionally, you can change values for CDE_RESOURCE_NAME and CDE_JOB_NAME as needed.
-The "sql.py" script is already provided to you when you clone this project.
+The "sql.py" script is already provided and placed in the correct path for you upon cloning this GitHub repository.
 
 The "run_spark_job" method in the last cell executes a small Spark SQL script in CDE.
 This shouldn't affect your data or any other jobs running in your CDE VC.
